@@ -90,3 +90,5 @@ src_managed/
 project/boot/
 .history
 .cache
+
+.DS_Store
